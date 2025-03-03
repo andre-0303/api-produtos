@@ -1,6 +1,6 @@
 # Api de Produtos
 
-Essa é uma API feita em Node.Js, para cadastro de produtos. Foi feita
+Essa é uma API feita em Node.Js, para cadastro de produtos. Foi feita usando Nodejs, express, nodemon, cors, prisma e o MongoDb.
 
 | Detalhes do Projeto |     |
 | -------------  | --- |
