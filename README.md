@@ -19,7 +19,7 @@ Essa é uma API feita em Node.Js, para cadastro de produtos. Foi feita usando No
 
 1. **Clonar o Repositório**
 ```bash
-git clone https://github.com/seu-usuario/upload-backend
+git clone https://github.com/seu-usuario/api-produtos
 cd api-mongo1
 ```
 2.**Iniciar o servidor**
